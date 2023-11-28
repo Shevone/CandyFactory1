@@ -1,0 +1,15 @@
+D:\univer\3course\1sem\c#_net\CandyFactory1\CandyFactory1\bin\Debug\net6.0\CandyFactory1.exe
+D:\univer\3course\1sem\c#_net\CandyFactory1\CandyFactory1\bin\Debug\net6.0\CandyFactory1.deps.json
+D:\univer\3course\1sem\c#_net\CandyFactory1\CandyFactory1\bin\Debug\net6.0\CandyFactory1.runtimeconfig.json
+D:\univer\3course\1sem\c#_net\CandyFactory1\CandyFactory1\bin\Debug\net6.0\CandyFactory1.dll
+D:\univer\3course\1sem\c#_net\CandyFactory1\CandyFactory1\bin\Debug\net6.0\CandyFactory1.pdb
+D:\univer\3course\1sem\c#_net\CandyFactory1\CandyFactory1\obj\Debug\net6.0\CandyFactory1.csproj.AssemblyReference.cache
+D:\univer\3course\1sem\c#_net\CandyFactory1\CandyFactory1\obj\Debug\net6.0\CandyFactory1.GeneratedMSBuildEditorConfig.editorconfig
+D:\univer\3course\1sem\c#_net\CandyFactory1\CandyFactory1\obj\Debug\net6.0\CandyFactory1.AssemblyInfoInputs.cache
+D:\univer\3course\1sem\c#_net\CandyFactory1\CandyFactory1\obj\Debug\net6.0\CandyFactory1.AssemblyInfo.cs
+D:\univer\3course\1sem\c#_net\CandyFactory1\CandyFactory1\obj\Debug\net6.0\CandyFactory1.csproj.CoreCompileInputs.cache
+D:\univer\3course\1sem\c#_net\CandyFactory1\CandyFactory1\obj\Debug\net6.0\CandyFactory1.dll
+D:\univer\3course\1sem\c#_net\CandyFactory1\CandyFactory1\obj\Debug\net6.0\refint\CandyFactory1.dll
+D:\univer\3course\1sem\c#_net\CandyFactory1\CandyFactory1\obj\Debug\net6.0\CandyFactory1.pdb
+D:\univer\3course\1sem\c#_net\CandyFactory1\CandyFactory1\obj\Debug\net6.0\CandyFactory1.genruntimeconfig.cache
+D:\univer\3course\1sem\c#_net\CandyFactory1\CandyFactory1\obj\Debug\net6.0\ref\CandyFactory1.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CandyFactory1/1.0.0": {
+        "runtime": {
+          "CandyFactory1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CandyFactory1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
