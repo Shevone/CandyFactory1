@@ -46,7 +46,7 @@ public class CandyCollection<T> : ICandyCollection<T> where T: Candy
                 if((upward && firstBigger) || (!upward && !firstBigger))
                 {
                     (_list[j], _list[j + 1]) = (_list[j + 1], _list[j]);
-                }g
+                }
             }
         }
     }
